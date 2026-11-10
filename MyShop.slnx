@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MyShop.BLL/MyShop.BLL.csproj" />
+  <Project Path="MyShop.DAL/MyShop.DAL.csproj" />
+  <Project Path="MyShop.Entities/MyShop.Entities.csproj" />
+  <Project Path="MyShop.UI/MyShop.UI.csproj" />
+</Solution>
